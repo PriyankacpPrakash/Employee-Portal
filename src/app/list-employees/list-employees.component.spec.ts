@@ -1,7 +1,7 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 import { RouterTestingModule } from '@angular/router/testing';
 import { ListEmployeesComponent } from './list-employees.component';
-import { EmployeesDataSharedService } from '../employees-data-shared.service';
+import { EmployeesDataSharedService } from '../shared/employees-data-shared.service';
 
 describe('ListEmployeesComponent', () => {
   let component: ListEmployeesComponent;

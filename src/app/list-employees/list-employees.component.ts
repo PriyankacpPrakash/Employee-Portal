@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { EmployeesDataSharedService } from '../employees-data-shared.service';
+import { EmployeesDataSharedService } from '../shared/employees-data-shared.service';
 
 @Component({
   selector: 'app-list-employees',

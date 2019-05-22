@@ -7,7 +7,7 @@ import { AppComponent } from './app.component';
 import { routing } from './app.routing';
 import { EmployeeRegistrationFormComponent } from './employee-registration-form/employee-registration-form.component';
 import { ListEmployeesComponent } from './list-employees/list-employees.component';
-import { EmployeesDataSharedService } from './employees-data-shared.service';
+import { EmployeesDataSharedService } from './shared/employees-data-shared.service';
 import { HomeComponent } from './home/home.component';
 
 @NgModule({

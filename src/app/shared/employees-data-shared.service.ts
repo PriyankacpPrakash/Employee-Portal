@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Employee } from './Models/employee-model';
+import { Employee } from '../Models/employee-model';
 import { ReplaySubject } from 'rxjs';
 
 @Injectable({

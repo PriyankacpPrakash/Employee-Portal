@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
-import { EmployeesDataSharedService } from '../employees-data-shared.service';
+import { EmployeesDataSharedService } from '../shared/employees-data-shared.service';
 
 
 
